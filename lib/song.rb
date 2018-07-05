@@ -6,3 +6,4 @@ class Song
    end
 end
 
+aritst = artist.new
