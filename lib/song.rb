@@ -5,5 +5,3 @@ class Song
     @title = title
    end
 end
-
-aritst = artist.new
